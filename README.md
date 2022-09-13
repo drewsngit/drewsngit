@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ugochukwu Andrew Aniegbune
-- 👀 I’m interested in growing as a software developer from mechanical engineering background
+- 👋 Hi, I’m Ugochukwu_ _Andrew Aniegbune_
+- 👀 I’m interested in growing as a software developer from mechanical_ engineering background
 - 🌱 I’m currently learning advanced cs concept on data science
 - 💞️ I’m looking to collaborate on any opensource project involving python
 - 📫 How to reach me ...https://www.linkedin.com/in/andaaa/
